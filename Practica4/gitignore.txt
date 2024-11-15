@@ -1,0 +1,1 @@
+/home/nicogmon/Vision/vis_ws/src/practicafinal-grupo15/src/practicafinal-grupo15/cfg/yolov3.weights
